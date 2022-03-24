@@ -9,7 +9,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract SellToken is Ownable {
 
   // Token Contract initialization
-  CodeIne mainCT;
+  CodeineToken mainCT;
 
   // 1000 token for an ETH
   uint256 public tokensPerEth = 1000;
@@ -18,7 +18,7 @@ contract SellToken is Ownable {
   event BuyTokens(address receiver, uint256 amountOfETH, uint256 amountOfTokens);
 
   constructor(address tokenAddress) {
-    mainCT = CodeIne(tokenAddress);
+    mainCT = CodeineToken(tokenAddress);
   }
 
   // To buy token with sender ETH
