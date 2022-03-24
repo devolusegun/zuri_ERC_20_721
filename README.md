@@ -7,3 +7,7 @@ Create an ERC721 token. The token metadata should be stored onchain and the imag
 
 # ERC_20 Etherscan
 https://rinkeby.etherscan.io/tx/0x9398b939575d325b70525b07ac6a110f87dabd07004a33fd46c9458e513e96e4
+
+
+# ERC721 Etherscan
+https://rinkeby.etherscan.io/tx/0x46d3d4b8dbebf4f444b9a951f7f4481aafd7b89bef2a6d001fcfc9745bd69509
