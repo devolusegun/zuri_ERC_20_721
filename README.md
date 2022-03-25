@@ -10,4 +10,12 @@ https://rinkeby.etherscan.io/tx/0x9398b939575d325b70525b07ac6a110f87dabd07004a33
 
 
 # ERC721 Etherscan
-https://rinkeby.etherscan.io/tx/0x4d397b8febc86bc4f37f5b9ffcd3b936866e9d6ca0cc01cd06ebd2ff8ac0be56
+https://rinkeby.etherscan.io/token/0xcaae30d8d4c7793473b19b0d1af3c70776af1da5
+
+
+# IPFS JSON Link: https://ipfs.io/ipfs/QmTR9hW7EWcei4aznGeKh1t47db6gK3U6Ak5FXwbzFWFXd
+{
+	"name": "CodeineNFT",
+	"description": "Codeine Avatar NFT",
+	"image": "ipfs.io/ipfs/QmQfVk3eRjUJrdXDCTfvWdNMfSmFbmBuccmoM1wBAV22b4"
+}
