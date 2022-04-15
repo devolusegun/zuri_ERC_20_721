@@ -19,3 +19,8 @@ https://rinkeby.etherscan.io/token/0xcaae30d8d4c7793473b19b0d1af3c70776af1da5
 	"description": "Codeine Avatar NFT",
 	"image": "ipfs.io/ipfs/QmQfVk3eRjUJrdXDCTfvWdNMfSmFbmBuccmoM1wBAV22b4"
 }
+{
+	"name": "CodeineNFT",
+	"description": "CrytonKidd Chart",
+	"image": "ipfs.io/ipfs/QmYrE9xQikNygV34Xpi4ZugExgjjECtsfYkwnZD3U6PDcq"
+}
